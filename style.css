@@ -53,4 +53,14 @@ body {
     -moz-box-shadow: 2px 8px 13px -3px rgba(116, 114, 144, 0.75);
 }
 
+footer {
+    text-align: center;
+    font-style: italic;
+    color: #ffffff;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100px;
+}
 
